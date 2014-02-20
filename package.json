@@ -1,44 +1,9 @@
 {
-  "name": "async-debounce",
+  "name": "juliangruber-async-debounce",
   "description": "Debounce asynchronous functions",
-  "version": "0.0.0",
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/juliangruber/async-debounce.git"
-  },
-  "homepage": "https://github.com/juliangruber/async-debounce",
+  "version": "0.0.1",
+  "keywords": [],
   "main": "index.js",
-  "scripts": {
-    "test": "tape test.js"
-  },
   "dependencies": {},
-  "devDependencies": {
-    "tape": "*"
-  },
-  "keywords": [
-    "debounce",
-    "async"
-  ],
-  "author": {
-    "name": "Julian Gruber",
-    "email": "mail@juliangruber.com",
-    "url": "http://juliangruber.com"
-  },
-  "license": "MIT",
-  "testling": {
-    "files": "test.js",
-    "browsers": [
-      "ie/8..latest",
-      "firefox/17..latest",
-      "firefox/nightly",
-      "chrome/22..latest",
-      "chrome/canary",
-      "opera/12..latest",
-      "opera/next",
-      "safari/5.1..latest",
-      "ipad/6.0..latest",
-      "iphone/6.0..latest",
-      "android-browser/4.2..latest"
-    ]
-  }
+  "license": "MIT"
 }
